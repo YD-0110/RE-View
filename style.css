@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+#RE{
+    font-family: 'Black Ops One', cursive;
+    font-size: 22px;
+    color: #5CE1E6;
+}
+
+#View{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: white;
+}
+
+.home{
+    background: linear-gradient(teal 0%,#202A44 100%);
+    color: white;
+}
+
+
+
+#mary_img{
+    width: 366px;
+    height: 498px;
+}
+
+
+
+.contact_1{
+    text-align: left;
+
+}
+
+.contact{
+       
+    color: white;
+    font-size: large;
+}
+
+.prayers_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.prayers_head i{
+    float: right;
+
+}
+
+.prayers_text span{
+    color: rgb(255, 179, 0);
+}
+
+
+
+
+.wrapper{
+    width:100%;
+    height:200px;
+    background-color:black;
+    overflow:scroll;
+  }
+
+  .li{
+    color: white;
+    background-color: black;
+    border: white solid 2px;
+    font-size: large;
+  }
+
+ 
+
+
+
